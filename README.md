@@ -2,20 +2,54 @@
 
 ### Software Architect | Solution Architecture | .NET & Azure
 
-I'm a software architect with over 20 years of experience designing, developing, and modernizing enterprise applications.
+I'm a software architect with over 20 years of experience in software engineering, designing, building, and modernizing enterprise applications.
 
-My focus is on domain modeling, distributed systems, cloud architecture, and building maintainable software solutions.
+My background combines hands-on software development with solution architecture, technical leadership, and a strong focus on understanding business domains and translating complex requirements into practical, maintainable software solutions.
 
-### Core expertise
-- Software Architecture & Domain-Driven Design
-- C# / .NET / ASP.NET Core / Blazor
-- Microsoft Azure & Infrastructure as Code (Bicep)
-- Microservices, Messaging & Event-Driven Architecture
+I enjoy working across the full software lifecycle, from domain modeling and architectural design to implementation, integration, and continuous improvement.
+
+## Areas of Expertise
+
+**Software Architecture & Design**
+- Solution Architecture & Enterprise Applications
+- Domain-Driven Design (DDD)
+- Distributed Systems & Microservices
+- Event-Driven Architecture
+- Legacy Modernization & System Integration
+
+**Backend & Frontend Development**
+- C# / .NET / ASP.NET Core
+- Blazor / WPF
+- Entity Framework Core
+- REST APIs
 - SQL Server & Data Modeling
-- Identity & Access Management
 
-### Featured projects
-Selected architecture and engineering projects will be published here.
+**Cloud & Infrastructure**
+- Microsoft Azure
+- Infrastructure as Code (Bicep)
+- Azure App Service & Container Apps
+- Azure Service Bus & RabbitMQ
+- Identity & Access Management (OAuth2 / OpenID Connect / Duende)
+- CI/CD & Observability
 
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/miquel-alcaraz)
+## Engineering Approach
+
+I believe good software architecture is about making informed decisions, understanding trade-offs, and finding the right balance between business needs, technical quality, and long-term maintainability.
+
+My approach emphasizes:
+
+- Understanding the business domain before choosing technologies.
+- Designing clear boundaries and responsibilities.
+- Keeping solutions as simple as their requirements allow.
+- Balancing architectural principles with pragmatic implementation.
+- Building systems that can evolve as business needs change.
+
+## Featured Projects
+
+I'm preparing a collection of reference projects showcasing practical approaches to software architecture, distributed systems, and cloud-native development.
+
+Projects and technical documentation will be available here soon.
+
+## Let's Connect
+
+Feel free to explore my work or [connect with me on LinkedIn](https://www.linkedin.com/in/miquel-alcaraz).
