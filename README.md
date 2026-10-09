@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Miquel 👋
 
-<!--
-**miquelalcaraz/miquelalcaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Architect | Solution Architecture | .NET & Azure
 
-Here are some ideas to get you started:
+I'm a software architect with over 20 years of experience designing, developing, and modernizing enterprise applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on domain modeling, distributed systems, cloud architecture, and building maintainable software solutions.
+
+### Core expertise
+- Software Architecture & Domain-Driven Design
+- C# / .NET / ASP.NET Core / Blazor
+- Microsoft Azure & Infrastructure as Code (Bicep)
+- Microservices, Messaging & Event-Driven Architecture
+- SQL Server & Data Modeling
+- Identity & Access Management
+
+### Featured projects
+Selected architecture and engineering projects will be published here.
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/miquel-alcaraz)
