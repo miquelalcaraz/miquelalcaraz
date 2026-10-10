@@ -1,6 +1,6 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0747A6&center=true&vCenter=true&multiline=true&width=435&height=40&repeat=true&lines=Always+learning.+Always+building." alt="Always learning. Always building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&duration=5000&pause=500&color=0747A6&center=true&vCenter=true&multiline=true&width=490&height=40&repeat=true&lines=Always+learning....+Always+building...." alt="Always learning.... Always building...." />
 </p>
 
 # Hey folks, I'm Miquel 👋
