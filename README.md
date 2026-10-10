@@ -1,6 +1,6 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&duration=5000&pause=1500&color=0747A6&center=true&vCenter=true&multiline=true&width=530&height=70&repeat=true&lines=Always+building+and...+never+done+learning!;Blistering+barnacles!" alt="Always building and... never done learning! Blistering barnacles!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=4000&pause=1500&color=0747A6&center=true&vCenter=true&multiline=true&width=530&height=70&repeat=true&lines=Always+building+and...+never+done+learning!;Blistering+barnacles!" alt="Always building and... never done learning! Blistering barnacles!" />
 </p>
 
 # Hey folks, I'm Miquel 👋
