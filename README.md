@@ -46,9 +46,11 @@ My approach emphasizes:
 
 ## Featured Projects
 
-I'm preparing a collection of reference projects showcasing practical approaches to software architecture, distributed systems, and cloud-native development.
+A collection of hands-on labs and reference projects exploring software architecture, distributed systems, and modern .NET development.
 
-Projects and technical documentation will be available here soon.
+### [Labs.Aspire.uSLearn](https://github.com/miquelalcaraz/Labs.Aspire.uSLearn)
+
+A hands-on learning project exploring .NET Aspire and distributed application development, with a focus on practical experimentation and technical documentation.
 
 ## Let's Connect
 
