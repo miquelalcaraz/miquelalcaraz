@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0747A6&center=true&vCenter=true&multiline=true&width=435&height=40&repeat=true&lines=Always+learning.+Always+building." alt="Always learning. Always building." />
 </p>
 
-# Hi, I'm Miquel! 👋
+# Hey folks, I'm Miquel 👋
 
 ### Software Architect | Solution Architecture | .NET & Azure
 
