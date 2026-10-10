@@ -1,4 +1,7 @@
-# Hi, I'm Miquel 👋
+# Hi, I'm Miquel! 👋
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+![Always learning. Always building.](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=750&color=1F6FEB&vCenter=true&width=440&height=40&repeat=false&lines=Always+learning.+Always+building.)
 
 ### Software Architect | Solution Architecture | .NET & Azure
 
