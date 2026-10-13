@@ -57,6 +57,10 @@ A collection of hands-on labs and reference projects exploring software architec
 
 A hands-on learning project exploring .NET Aspire and distributed application development, with a focus on practical experimentation and technical documentation.
 
+### [Labs.ServicePlatform](https://github.com/miquelalcaraz/Labs.ServicePlatform)
+
+A reusable base architecture for event-driven .NET services on .NET 10 and Aspire, and the continuation of Labs.Aspire.uSLearn. It extracts the patterns explored there into isolated building blocks (a CQRS command pipeline, transactional outbox, idempotent commands and consumers, and built-in observability), each behind its own abstraction so the underlying technology can change without touching business code. The platform is validated end to end by a multi-service B2B onboarding sample.
+
 ## Let's Connect
 
 Feel free to explore my work or [connect with me on LinkedIn](https://www.linkedin.com/in/miquel-alcaraz).
