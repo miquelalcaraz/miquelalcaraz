@@ -7,7 +7,7 @@
 
 ### Software Architect | Solution Architecture | .NET & Azure
 
-I'm a software architect with over 20 years of experience in software engineering, designing, building, and modernizing enterprise applications.
+I'm Miquel Alcaraz, a Barcelona-based Software Architect with over 20 years of experience in software engineering, designing, building, and modernizing enterprise applications.
 
 My background combines hands-on software development with solution architecture, technical leadership, and a strong focus on understanding business domains and translating complex requirements into practical, maintainable software solutions.
 
