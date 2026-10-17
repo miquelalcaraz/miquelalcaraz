@@ -1,66 +1,42 @@
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=4000&pause=1500&color=0747A6&center=true&vCenter=true&multiline=true&width=530&height=70&repeat=true&lines=Always+building+and...+never+done+learning!;Blistering+barnacles!" alt="Always building and... never done learning! Blistering barnacles!" />
 </p>
 
-# Hey folks, I'm Miquel 👋
+# Hey folks, I'm Miquel 👋 <a href="https://www.linkedin.com/in/miquel-alcaraz"><img align="right" alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Software Architect | Solution Architecture | .NET & Azure
+### 📌 It's not the arrow. It's the archer.
 
-I'm Miquel Alcaraz, a Barcelona-based Software Architect with over 20 years of experience in software engineering, designing, building, and modernizing enterprise applications.
+I'm a software architect based in Barcelona, and I've been building software for many years. The longer I do it, the more I believe in this saying, with one important nuance:
 
-My background combines hands-on software development with solution architecture, technical leadership, and a strong focus on understanding business domains and translating complex requirements into practical, maintainable software solutions.
+> 💡 Software engineering and the technology we use to build solutions go hand in hand.
 
-I enjoy working across the full software lifecycle, from domain modeling and architectural design to implementation, integration, and continuous improvement.
+Over the years, I've learned that **a successful project starts with understanding the problem we want to solve and the context in which the solution will be used**. We should be able to explain that goal in a single sentence and keep it with us throughout the project's lifecycle, like a *ship's compass* that keeps us on course, however rough the seas get.
 
-## Areas of Expertise
+I've also seen how quickly technology changes. Some technologies fade away, while others are here to stay, and part of the challenge is deciding which ones are worth our time. **Technologies change, but the fundamentals of software engineering remain.**
 
-**Software Architecture & Design**
-- Solution Architecture & Enterprise Applications
-- Domain-Driven Design (DDD)
-- Distributed Systems & Microservices
-- Event-Driven Architecture
-- Legacy Modernization & System Integration
+All of this has taught me something:
 
-**Backend & Frontend Development**
-- C# / .NET / ASP.NET Core
-- Blazor / WPF
-- Entity Framework Core
-- REST APIs
-- SQL Server & Data Modeling
+> 🧭 **The most valuable knowledge isn't just what we've accumulated, but the foundation we've built to keep learning, understand what we don't yet know, and evaluate alternatives with sound judgment.**
 
-**Cloud & Infrastructure**
-- Microsoft Azure
-- Infrastructure as Code (Bicep)
-- Azure App Service & Container Apps
-- Azure Service Bus & RabbitMQ
-- Identity & Access Management (OAuth2 / OpenID Connect / Duende)
-- CI/CD & Observability
+## 🚀 Featured Projects
 
-## Engineering Approach
-
-I believe good software architecture is about making informed decisions, understanding trade-offs, and finding the right balance between business needs, technical quality, and long-term maintainability.
-
-My approach emphasizes:
-
-- Understanding the business domain before choosing technologies.
-- Designing clear boundaries and responsibilities.
-- Keeping solutions as simple as their requirements allow.
-- Balancing architectural principles with pragmatic implementation.
-- Building systems that can evolve as business needs change.
-
-## Featured Projects
-
-A collection of hands-on labs and reference projects exploring software architecture, distributed systems, and modern .NET development.
+A collection of hands-on labs where I explore software architecture, distributed systems, and modern .NET development.
 
 ### [Labs.Aspire.uSLearn](https://github.com/miquelalcaraz/Labs.Aspire.uSLearn)
 
-A hands-on learning project exploring .NET Aspire and distributed application development, with a focus on practical experimentation and technical documentation.
+A step-by-step learning lab exploring distributed applications with .NET Aspire, with a focus on architectural decisions, implementation, and trade-offs.
 
 ### [Labs.ServicePlatform](https://github.com/miquelalcaraz/Labs.ServicePlatform)
 
-A reusable base architecture for event-driven .NET services on .NET 10 and Aspire, and the continuation of Labs.Aspire.uSLearn. It extracts the patterns explored there into isolated building blocks (a CQRS command pipeline, transactional outbox, idempotent commands and consumers, and built-in observability), each behind its own abstraction so the underlying technology can change without touching business code. The platform is validated end to end by a multi-service B2B onboarding sample.
+The next step after uSLearn: turning distributed architecture patterns into reusable building blocks, including CQRS, the transactional outbox, idempotency, and observability. The platform is validated through a multi-service B2B onboarding example.
 
-## Let's Connect
 
-Feel free to explore my work or [connect with me on LinkedIn](https://www.linkedin.com/in/miquel-alcaraz).
+# 🔭 Tech Lookout
+
+
+<p align="center">
+  <img alt="Miquel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=miquelalcaraz&show_icons=true&bg_color=00000000&title_color=2684FF&icon_color=4C9AFF&text_color=8B949E&hide_border=true&rank_icon=github&line_height=20&ring_color=2684FF&text_bold=false" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquelalcaraz&layout=compact&bg_color=00000000&title_color=2684FF&text_color=8B949E&hide_border=true" />
+</p>
