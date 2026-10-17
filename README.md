@@ -25,14 +25,15 @@ All of this has taught me something:
 ## 🚀 Featured Projects
 
 A collection of hands-on labs where I explore software architecture, distributed systems, and modern .NET development.
+### [Labs.ServicePlatform](https://github.com/miquelalcaraz/Labs.ServicePlatform)
+
+The next step after uSLearn: turning distributed architecture patterns into reusable building blocks, including CQRS, the transactional outbox, idempotency, and observability. The platform is validated through a multi-service B2B onboarding example.
 
 ### [Labs.Aspire.uSLearn](https://github.com/miquelalcaraz/Labs.Aspire.uSLearn)
 
 A step-by-step learning lab exploring distributed applications with .NET Aspire, with a focus on architectural decisions, implementation, and trade-offs.
 
-### [Labs.ServicePlatform](https://github.com/miquelalcaraz/Labs.ServicePlatform)
 
-The next step after uSLearn: turning distributed architecture patterns into reusable building blocks, including CQRS, the transactional outbox, idempotency, and observability. The platform is validated through a multi-service B2B onboarding example.
 
 
 ## 🔭 Tech Lookout
