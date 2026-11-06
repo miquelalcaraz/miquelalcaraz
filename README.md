@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/miquel-alcaraz"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-3776AB?style=flat" /></a>
-  <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmiquelalcaraz&label=Profile%20views&labelColor=%234479a1&countColor=%236a9bc3&style=flat" />
+  <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmiquelalcaraz&label=Profile%20views&labelColor=%23734f96&countColor=%239a6fc4&style=flat" />
   <a href="https://github.com/miquelalcaraz?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/miquelalcaraz?style=flat&logo=github&logoColor=white&label=Followers&labelColor=008080&color=26A69A" /></a>
 </p>
 
