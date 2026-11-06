@@ -33,9 +33,8 @@ The next step after uSLearn: turning distributed architecture patterns into reus
 
 A step-by-step learning lab exploring distributed applications with .NET Aspire, with a focus on architectural decisions, implementation, and trade-offs.
 
-## 🔭 Tech Lookout
+## 📊 GitHub Streak
 
 <p align="center">
-  <img alt="Miquel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=miquelalcaraz&show_icons=true&bg_color=00000000&title_color=2684FF&icon_color=4C9AFF&text_color=8B949E&hide_border=true&rank_icon=github&line_height=20&ring_color=2684FF&text_bold=false" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquelalcaraz&layout=compact&bg_color=00000000&title_color=2684FF&text_color=8B949E&hide_border=true" />
+  <img alt="Miquel's GitHub streak" src="https://streak-stats.demolab.com?user=miquelalcaraz&mode=weekly&background=00000000&hide_border=true&ring=2684FF&fire=4C9AFF&currStreakNum=2684FF&currStreakLabel=2684FF&sideNums=2684FF&sideLabels=8B949E&dates=8B949E&stroke=8B949E" />
 </p>
