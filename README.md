@@ -3,7 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=4000&pause=1500&color=0747A6&center=true&vCenter=true&multiline=true&width=530&height=70&repeat=true&lines=Always+building+and...+never+done+learning!;Blistering+barnacles!" alt="Always building and... never done learning! Blistering barnacles!" />
 </p>
 
-# Hey folks, I'm Miquel 👋 <a href="https://github.com/miquelalcaraz?tab=followers"><img align="right" height="24" hspace="3" alt="GitHub followers" src="https://img.shields.io/github/followers/miquelalcaraz?style=for-the-badge&logo=github&label=Followers&color=2684FF" /></a> <img align="right" height="24" hspace="3" alt="Profile views" src="https://komarev.com/ghpvc/?username=miquelalcaraz&style=for-the-badge&color=2684FF&label=PROFILE+VIEWS" /> <a href="https://www.linkedin.com/in/miquel-alcaraz"><img align="right" alt="LinkedIn" title="Connect with me on LinkedIn" height="24" hspace="3" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/miquel-alcaraz"><img alt="LinkedIn" title="Connect with me on LinkedIn" height="24" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img alt="Profile views" height="24" src="https://komarev.com/ghpvc/?username=miquelalcaraz&style=for-the-badge&color=2684FF&label=PROFILE+VIEWS" />
+  <a href="https://github.com/miquelalcaraz?tab=followers"><img alt="GitHub followers" height="24" src="https://img.shields.io/github/followers/miquelalcaraz?style=for-the-badge&logo=github&label=Followers&color=2684FF" /></a>
+</p>
+
+# Hey folks, I'm Miquel 👋
 
 ### 📌 It's not the arrow. It's the archer.
 
