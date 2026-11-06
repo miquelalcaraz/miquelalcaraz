@@ -23,6 +23,7 @@ All of this has taught me something:
 
 ## 💻 Tech Stack
 
+<p>
 <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" />
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
 <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -35,6 +36,7 @@ All of this has taught me something:
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white" />
 <img alt="Bicep" src="https://img.shields.io/badge/Bicep-0078D4?style=flat" />
+</p>
 
 ## 📊 GitHub Streak
 
