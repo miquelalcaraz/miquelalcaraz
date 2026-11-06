@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/miquel-alcaraz"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-3776AB?style=flat" /></a>
-  <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmiquelalcaraz&label=Profile%20views&labelColor=%23013243&countColor=%234479a1&style=flat" />
+  <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmiquelalcaraz&label=Profile%20views&labelColor=%234479a1&countColor=%236a9bc3&style=flat" />
   <a href="https://github.com/miquelalcaraz?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/miquelalcaraz?style=flat&logo=github&logoColor=white&label=Followers&labelColor=008080&color=26A69A" /></a>
 </p>
 
@@ -30,24 +30,24 @@ All of this has taught me something:
 ## 💻 Tech Stack
 
 <p>
-<img alt="C#" src="https://img.shields.io/badge/C%23-013243?style=flat-square&logo=dotnet&logoColor=white" />
-<img alt=".NET" src="https://img.shields.io/badge/.NET-013243?style=flat-square&logo=dotnet&logoColor=white" />
-<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-013243?style=flat-square&logo=dotnet&logoColor=white" />
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-3776AB?style=flat-square" />
-<img alt=".NET Aspire" src="https://img.shields.io/badge/.NET_Aspire-013243?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-3776AB?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt=".NET" src="https://img.shields.io/badge/.NET-3776AB?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-3776AB?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-276DC3?style=flat-square" />
+<img alt=".NET Aspire" src="https://img.shields.io/badge/.NET_Aspire-3776AB?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-C0504D?style=flat-square" />
-<img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-013243?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-3776AB?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-E8743B?style=flat-square&logo=rabbitmq&logoColor=white" />
-<img alt="Azure Service Bus" src="https://img.shields.io/badge/Azure_Service_Bus-3776AB?style=flat-square" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-008CD7?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Azure Service Bus" src="https://img.shields.io/badge/Azure_Service_Bus-276DC3?style=flat-square" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-8CAAE6?style=flat-square&logo=docker&logoColor=white" />
 <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-008080?style=flat-square&logo=opentelemetry&logoColor=white" />
-<img alt="Bicep" src="https://img.shields.io/badge/Bicep-3776AB?style=flat-square" />
+<img alt="Bicep" src="https://img.shields.io/badge/Bicep-013243?style=flat-square" />
 </p>
 
 ## 📊 GitHub Streak
 
 <p align="center">
-  <img alt="Miquel's GitHub streak" src="https://streak-stats.demolab.com?user=miquelalcaraz&mode=weekly&background=00000000&hide_border=true&ring=2684FF&fire=4C9AFF&currStreakNum=2684FF&currStreakLabel=2684FF&sideNums=2684FF&sideLabels=8B949E&dates=8B949E&stroke=8B949E" />
+  <img alt="Miquel's GitHub streak" src="https://streak-stats.demolab.com?user=miquelalcaraz&mode=weekly&background=00000000&hide_border=true&ring=F05032&fire=F05032&currStreakNum=F05032&currStreakLabel=F05032&sideNums=2684FF&sideLabels=8B949E&dates=8B949E&stroke=8B949E" />
 </p>
 
 ## 🚀 Featured Projects
