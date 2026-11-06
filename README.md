@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/miquel-alcaraz"><img alt="LinkedIn" title="Connect with me on LinkedIn" height="24" src="https://img.shields.io/badge/linkedin-3776AB?style=for-the-badge" /></a>
-  <img alt="Profile views" height="24" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmiquelalcaraz&label=PROFILE%20VIEWS&labelColor=%23734f96&countColor=%239a6fc4&style=for-the-badge&labelStyle=upper" />
-  <a href="https://github.com/miquelalcaraz?tab=followers"><img alt="GitHub followers" height="24" src="https://img.shields.io/github/followers/miquelalcaraz?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=008080&color=26A69A" /></a>
+  <a href="https://www.linkedin.com/in/miquel-alcaraz"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-3776AB?style=flat" /></a>
+  <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmiquelalcaraz&label=Profile%20views&labelColor=%23734f96&countColor=%239a6fc4&style=flat" />
+  <a href="https://github.com/miquelalcaraz?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/miquelalcaraz?style=flat&logo=github&logoColor=white&label=Followers&labelColor=008080&color=26A69A" /></a>
 </p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -30,18 +30,18 @@ All of this has taught me something:
 ## 💻 Tech Stack
 
 <p>
-<img alt="C#" src="https://img.shields.io/badge/C%23-734F96?style=flat&logo=dotnet&logoColor=white" />
-<img alt=".NET" src="https://img.shields.io/badge/.NET-734F96?style=flat&logo=dotnet&logoColor=white" />
-<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-734F96?style=flat&logo=dotnet&logoColor=white" />
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-3776AB?style=flat" />
-<img alt=".NET Aspire" src="https://img.shields.io/badge/.NET_Aspire-734F96?style=flat&logo=dotnet&logoColor=white" />
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-C0504D?style=flat" />
-<img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-734F96?style=flat&logo=dotnet&logoColor=white" />
-<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-E8743B?style=flat&logo=rabbitmq&logoColor=white" />
-<img alt="Azure Service Bus" src="https://img.shields.io/badge/Azure_Service_Bus-3776AB?style=flat" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-008CD7?style=flat&logo=docker&logoColor=white" />
-<img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-008080?style=flat&logo=opentelemetry&logoColor=white" />
-<img alt="Bicep" src="https://img.shields.io/badge/Bicep-3776AB?style=flat" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-734F96?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt=".NET" src="https://img.shields.io/badge/.NET-734F96?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-734F96?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-3776AB?style=flat-square" />
+<img alt=".NET Aspire" src="https://img.shields.io/badge/.NET_Aspire-734F96?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-C0504D?style=flat-square" />
+<img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-734F96?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-E8743B?style=flat-square&logo=rabbitmq&logoColor=white" />
+<img alt="Azure Service Bus" src="https://img.shields.io/badge/Azure_Service_Bus-3776AB?style=flat-square" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-008CD7?style=flat-square&logo=docker&logoColor=white" />
+<img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-008080?style=flat-square&logo=opentelemetry&logoColor=white" />
+<img alt="Bicep" src="https://img.shields.io/badge/Bicep-3776AB?style=flat-square" />
 </p>
 
 ## 📊 GitHub Streak
