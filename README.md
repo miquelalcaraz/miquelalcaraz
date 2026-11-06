@@ -36,6 +36,12 @@ All of this has taught me something:
 <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white" />
 <img alt="Bicep" src="https://img.shields.io/badge/Bicep-0078D4?style=flat" />
 
+## 📊 GitHub Streak
+
+<p align="center">
+  <img alt="Miquel's GitHub streak" src="https://streak-stats.demolab.com?user=miquelalcaraz&mode=weekly&background=00000000&hide_border=true&ring=2684FF&fire=4C9AFF&currStreakNum=2684FF&currStreakLabel=2684FF&sideNums=2684FF&sideLabels=8B949E&dates=8B949E&stroke=8B949E" />
+</p>
+
 ## 🚀 Featured Projects
 
 A collection of hands-on labs where I explore software architecture, distributed systems, and modern .NET development.
@@ -47,9 +53,3 @@ The next step after uSLearn: turning distributed architecture patterns into reus
 ### [Labs.Aspire.uSLearn](https://github.com/miquelalcaraz/Labs.Aspire.uSLearn)
 
 A step-by-step learning lab exploring distributed applications with .NET Aspire, with a focus on architectural decisions, implementation, and trade-offs.
-
-## 📊 GitHub Streak
-
-<p align="center">
-  <img alt="Miquel's GitHub streak" src="https://streak-stats.demolab.com?user=miquelalcaraz&mode=weekly&background=00000000&hide_border=true&ring=2684FF&fire=4C9AFF&currStreakNum=2684FF&currStreakLabel=2684FF&sideNums=2684FF&sideLabels=8B949E&dates=8B949E&stroke=8B949E" />
-</p>
