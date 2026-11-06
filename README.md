@@ -21,6 +21,21 @@ All of this has taught me something:
 > 🧭\
 > **The most valuable knowledge isn't just what we've accumulated, but the foundation we've built to keep learning, understand what we don't yet know, and evaluate alternatives with sound judgment.**
 
+## 💻 Tech Stack
+
+<img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat" />
+<img alt=".NET Aspire" src="https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat" />
+<img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+<img alt="Azure Service Bus" src="https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white" />
+<img alt="Bicep" src="https://img.shields.io/badge/Bicep-0078D4?style=flat" />
+
 ## 🚀 Featured Projects
 
 A collection of hands-on labs where I explore software architecture, distributed systems, and modern .NET development.
